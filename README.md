@@ -3,7 +3,9 @@ Welcome to the official repository for 360 One Stop Shop, your ultimate destinat
 
 ## Youtube Video Associated with My Working
 
-[![Watch the video on YouTube](https://img.youtube.com/vi/bUZ-odZU/maxresdefault.jpg)](https://youtu.be/bUZ-odZU)
+### https://youtu.be/JcyiOM_qC-Q
+
+[![Watch the video on YouTube](https://img.youtube.com/vi/JcyiOM_qC-Q/maxresdefault.jpg)](https://youtu.be/JcyiOM_qC-Q)
 
 
 # Website Screenshot
